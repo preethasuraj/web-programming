@@ -1,0 +1,18 @@
+body{
+	font-size: 16px;
+	color: #000000;
+	background-color: #ffff;
+    font-family: 'Oxygen', sans-serif;
+}
+#header-nav{
+	background-color: #1B3A5F;
+	border-radius: 0;
+	color: #ffffff
+	border: 0;
+}
+#logo-img {
+	background: url(../preetha-logo.jpg) no-repeat;
+	width: : 350px;
+	height: 150px;
+	mask: 10px 15px 10px 0;
+}
